@@ -6,7 +6,7 @@ This codec implements R-REC-M.493-14-201509.
 For any questions please contact me on flyenj@gmail.com
 <h2>Quick start</h2>
 
-<h3>Transsmition</h3>
+<h3>Transmission</h3>
 
 ```java
 Distress distress = new Distress(
